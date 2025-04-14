@@ -85,6 +85,12 @@ Salifort Motors is experiencing a high rate of employee turnover. This project u
 
 ![image](https://github.com/user-attachments/assets/01792b20-8d44-4c7b-9ab0-c65e4fe4893c)
 
+![image](https://github.com/user-attachments/assets/8efc8e5b-dd51-4431-8560-2fea75498007)
+
+![image](https://github.com/user-attachments/assets/6f753c91-b566-44a0-942d-2b391688bbbc)
+
+
+
 ---
 
 ## Tableau Vizzes - Vizualizations
