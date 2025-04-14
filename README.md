@@ -161,6 +161,17 @@ Tableau Visualization
 
 ---
 
+## ✅ Conclusion
+The Salifort Motors Employee Turnover Project demonstrates how data analytics and machine learning can be leveraged to tackle real-world HR challenges. Through comprehensive exploratory data analysis, predictive modeling, and data visualization, this project uncovered key drivers of attrition—such as low satisfaction, lack of promotion, excessive workload, and low compensation.
+
+The predictive models, especially Random Forest and XGBoost, achieved high accuracy in forecasting employee turnover, offering HR departments actionable tools for early intervention. These insights empower leadership to take a proactive stance on employee retention, fostering a more engaged and stable workforce.
+
+This project reflects the application of the full PACE (Plan, Analyze, Construct, Execute) framework, aligning business questions with data-driven decision-making. With strategic recommendations backed by visual storytelling in Power BI and Tableau, this capstone not only enhances operational awareness but also serves as a strong portfolio piece demonstrating end-to-end analytical proficiency.
+
+
+
+---
+
 📬 Contact
 Author: Sulay Cay
 
