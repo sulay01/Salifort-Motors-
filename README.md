@@ -1,5 +1,11 @@
 # Salifort-Motors-
 Data professional Analysis for Salifort Motors
+
+Author: Sulay Cay
+
+Date: 14-April-2025
+
+---
 # 🧠 Employee Turnover Prediction – Salifort Motors
 
 This project aims to identify key drivers of employee turnover at Salifort Motors and build predictive machine learning models to help HR reduce attrition and improve employee retention strategies.
