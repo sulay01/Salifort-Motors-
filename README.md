@@ -89,7 +89,7 @@ Salifort Motors is experiencing a high rate of employee turnover. This project u
 
 
 
-
+---
 ## 🚀 How to Use
 
 1. Clone the repository:
@@ -103,14 +103,22 @@ jupyter notebook Salifort_Motors_Employee_Turnover_Analysis.ipynb
 
 pip install pandas numpy seaborn matplotlib scikit-learn xgboost
 
+
+
 📄 Files
-Salifort_Motors_Employee_Turnover_Analysis.ipynb: Full Python notebook with code and models.
+Salifort_Motors_Employee_Turnover_Analysis.ipynb: Full Python notebook
 
-Filled_Course_7_PACE_Strategy_Document.docx: Strategy document outlining project planning.
+Filled_Course_7_PACE_Strategy_Document.docx: Project planning strategy
 
-Filled_Executive_Summary_Salifort_Motors.pptx: Business summary slide for stakeholders.
+Filled_Executive_Summary_Salifort_Motors.pptx: Executive-facing summary presentation
 
-HR_capstone_dataset.csv: Original dataset used for analysis.
+Salifort_Motors_HR_Turnover_Report.pdf: One-page dark theme PDF report
+
+HR_capstone_dataset.csv: Dataset used for the project
+
+PowerBI_Visuals/: Contains PDF charts created in Power BI
+
+---
 
 📬 Contact
 Author: Sulay Cay
