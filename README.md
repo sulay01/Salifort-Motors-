@@ -72,6 +72,23 @@ Salifort Motors is experiencing a high rate of employee turnover. This project u
 - Deploy predictive models in HR systems to flag high-risk employees.
 
 ---
+## Power BI Visualizations 
+![image](https://github.com/user-attachments/assets/1ab8c9bc-01f7-43b5-82a4-ceda230e30fd)
+
+![image](https://github.com/user-attachments/assets/451714fb-3b97-4c11-afdd-73cc8c14ea17)
+
+![image](https://github.com/user-attachments/assets/51329a73-b367-4bad-a6c3-31d6d1f10055)
+
+![image](https://github.com/user-attachments/assets/aa39e7f1-eb8b-49fb-b84b-22f0059c0499)
+
+![image](https://github.com/user-attachments/assets/b799e042-5ea9-4964-ad65-edf050a76988)
+
+![image](https://github.com/user-attachments/assets/01792b20-8d44-4c7b-9ab0-c65e4fe4893c)
+
+
+
+
+
 
 ## 🚀 How to Use
 
