@@ -1,4 +1,4 @@
-# Salifort-Motors-
+# Salifort-Motors-Capstone Project
 Data professional Analysis for Salifort Motors
 
 Author: Sulay Cay
