@@ -118,6 +118,8 @@ HR_capstone_dataset.csv: Dataset used for the project
 
 PowerBI_Visuals/: Contains PDF charts created in Power BI
 
+Tableau Visualization 
+
 ---
 
 📬 Contact
@@ -126,6 +128,11 @@ Author: Sulay Cay
 LinkedIn: linkedin.com/in/sulay-cay-0589513a
 
 GitHub: github.com/sulay01
+
+Tableau: https://public.tableau.com/app/profile/sulay.cay/vizzes
+Salifort_Motors_HR_Employee_Turnover_By_Department
+
+
 
 📚 License
 This project is for educational purposes only and part of the Google Advanced Data Analytics Professional Certificate.
