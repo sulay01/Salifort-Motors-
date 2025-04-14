@@ -131,6 +131,8 @@ Salifort Motors is experiencing a high rate of employee turnover. This project u
 
 jupyter notebook Salifort_Motors_Employee_Turnover_Analysis.ipynb
 PACE CAPSTONE LAB PROJECT JUPYTER NOTEBOOK 
+
+
 [https://github.com/sulay01/Salifort-Motors-Capstone-Project/blob/main/Activity_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb]
 
 [https://github.com/sulay01/Salifort-Motors-Capstone-Project/blob/main/Exemplar_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb]
